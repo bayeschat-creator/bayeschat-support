@@ -4,6 +4,10 @@ Welcome to BayesChat support.
 
 BayesChat is a local AI chat client for users who configure their own model providers. If you need help, have a question, want to report a bug, or would like to request a feature, please use one of the support options below.
 
+## What’s New
+
+Looking for what changed in the latest release? See the [Changelog](./CHANGELOG.md) for highlights, improvements, and bug fixes.
+
 ## Contact
 
 Email: bayeschat@gmail.com

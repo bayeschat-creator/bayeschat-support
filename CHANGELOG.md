@@ -1,3 +1,20 @@
+# BayesChat 1.0.7 — Release Notes
+
+**Version:** 1.0.7  
+**Since:** 1.0.6  
+**Date:** August 2026
+
+---
+
+## Highlights
+
+### 1. Smoother Settings scrolling
+Scrolling Settings (and pages like Terms of Service) no longer hitch or jitter during fast inertial scrolls. The settings sheet is isolated from the live chat view so the chat WebView doesn’t steal frames while you scroll.
+
+### 2. More reliable jump-to-bottom after status-bar jumps
+Fixed a case where the floating jump-to-bottom control could flash a white screen after status-bar layout jumps.
+
+
 # BayesChat 1.0.6 — Release Notes
 
 **Version:** 1.0.6  
